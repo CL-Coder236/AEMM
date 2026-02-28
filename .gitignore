@@ -1,0 +1,8 @@
+weights/
+scripts/
+tests/
+docs/
+command/
+**/__pycache__/
+**/**/__pycache__/
+**/*.pyc
