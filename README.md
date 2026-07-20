@@ -48,9 +48,13 @@ LEAR/
 If you find this repository helpful, please click the ⭐Star and cite our paper:
 
 ```
-@inproceedings{yulearning,
-  title={Learning Adaptive and Expandable Mixture Model for Continual Learning},
-  author={Ye, Fei and YongCheng, Zhong and Qihe, Liu and Bors, Adrian G and JingLing, Sun and others},
+@inproceedings{ye2026learning,
+  title={Learning adaptive and expandable mixture model for continual learning},
+  author={Ye, Fei and Zhong, YongCheng and Liu, Qihe and Bors, Adrian G and Sun, JingLing and Guo, JinYu and Zhou, ShiJie},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={33},
+  pages={27773--27781},
   year={2026}
 }
 ```
